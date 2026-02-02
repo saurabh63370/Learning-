@@ -1,3 +1,5 @@
+# Check if a string is a palindrome
+
 s="madam"
 s1=s[::-1]
 if s==s1:
