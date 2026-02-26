@@ -5,6 +5,8 @@ int main() {
     int b=21;
     int c=211;
     int d=121;
+    int e=1212;
+    cout << e;
     cout << a;
     cout << b;
     cout << c;
