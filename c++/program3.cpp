@@ -6,6 +6,9 @@ int main() {
     int c=211;
     int d=121;
     int e=1212;
+    int f = 242;
+    cout << f;
+
     cout << e;
     cout << a;
     cout << b;
