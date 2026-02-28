@@ -7,8 +7,9 @@ int main() {
     int d=121;
     int e=1212;
     int f = 242;
+    int g=132;
+    cout << g;
     cout << f;
-
     cout << e;
     cout << a;
     cout << b;
