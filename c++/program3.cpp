@@ -8,6 +8,8 @@ int main() {
     int e=1212;
     int f = 242;
     int g=132;
+    int h=242;
+    cout << h ;
     cout << g;
     cout << f;
     cout << e;
